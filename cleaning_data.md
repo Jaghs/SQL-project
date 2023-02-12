@@ -1,4 +1,4 @@
-What issues will you address by cleaning the data?
+# What issues will you address by cleaning the data?
 
 1. Firstly, I had to properly sort all the data types as integers, varchar, float, etc (This will allow for proper query results as I continue to work the datasets)
 2. The unit costs in the analytics table for the products is incorrect and has to be divided by 1,000,000 to be corrected
@@ -7,10 +7,9 @@ What issues will you address by cleaning the data?
 5. Changing time format from all_sessions table to HH:MM:SS
 6. fullVisitorId from all_sessions tables have duplicate ID's
 
+***(Numbers above correspond to numbers below)***
 
-
-Queries:
-Below, provide the SQL queries you used to clean your data.
+## Queries: Below, provide the SQL queries you used to clean your data.
 
 2. 
  ```SQL
