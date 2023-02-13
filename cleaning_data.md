@@ -6,6 +6,8 @@
 4. Trimming down fullVisiotrId from the all_sessions table 
 5. Changing time format from all_sessions table to HH:MM:SS
 6. fullVisitorId from all_sessions tables have duplicate ID's
+7. units_sold in analytics table has alot of null values where they can be transformed to output "0" instead
+8. changing column "SKU" from products table to match other tables names with "productSKU" (did another similar query for changing  fullvisitorId in the analytics table to "fullVisitorId" aswell)
 
 ***(Numbers above correspond to numbers below)***
 
@@ -22,7 +24,7 @@ SELECT userid FROM analytics WHERE userid IS NOT null
 ```
 ```SQL
 ALTER TABLE analytics
-DROP COLUMN userid;
+DROP COLUMN userid
 ```
 4.
 ```SQL
@@ -39,4 +41,19 @@ Select "fullVisitorId", COUNT(*)
 FROM all_sessions
 GROUP BY "fullVisitorId"
 HAVING COUNT(*) > 1
+```
+7.
+```SQL
+UPDATE analytics
+SET units_sold = 0
+WHERE units_sold IS NULL
+```
+8.
+```SQL
+ALTER TABLE products
+RENAME COLUMN "SKU" to "productSKU"
+```
+```SQL
+ALTER TABLE analytics
+RENAME COLUMN "fullvisitorId" to "fullVisitorId"
 ```
