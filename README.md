@@ -29,5 +29,5 @@ I also found it challenging knowing when to use certain functions over others an
 ```
 Given more time it would be much easier to go through all the data in detail and allow for a deeper understanding of the datasets.
 
-My querires could have also been improved to be more efficient and have less clutter.
+My queries could have also been improved to be more efficient and have less clutter.
 ```
