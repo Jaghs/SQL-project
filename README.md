@@ -9,8 +9,8 @@ The goal for the project is to further my SQL skills mainly in extracting and tr
 ## Process
 ```
 1. Loading csv files into PostgreSQL and properly formatting data 
-2. Data cleaning the databases and looking for potential issues that could alter reults
-3. Going through the required problems and using queries to answer the questions to acheive certain results
+2. Data cleaning the databases and looking for potential issues that could alter results
+3. Going through the required problems and using queries to answer the questions to achieve certain results
 4. Double checking my data outputs through QA and validation queries
 ```
 
