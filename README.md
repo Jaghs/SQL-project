@@ -1,4 +1,4 @@
-# Final-Project-Transforming-and-Analyzing-Data-with-SQL
+# Transforming and Analyzing Data with-SQL
 
 ## Project/Goals
 
