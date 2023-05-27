@@ -11,13 +11,13 @@ This project is organized into data, images, and src folders:
  - [`'images'`](https://github.com/Jaghs/SQL-project/tree/main/images): folder contains Entity Relationship Diagram (ERD)
 - [`'workbooks'`](https://github.com/Jaghs/SQL-project/tree/main/workbooks): folder contains 4 workbooks where my SQL queries are:
 
-  1. [`'cleaning_data'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/cleaning_data.md): Queries used to clean the data
+  1. [`'cleaning_data'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/cleaning_data.md): queries used to clean the data
 
-  2. [`'starting_with_questions'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/starting_with_questions.md): Answering questions about the data with queries
+  2. [`'starting_with_questions'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/starting_with_questions.md): answering questions about the data with queries
 
-  3. [`'starting_with_data'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/starting_with_data.md): Using the data I created my own questions to answer with queries 
+  3. [`'starting_with_data'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/starting_with_data.md): using the data I created my own questions to answer with queries 
 
-  4. [`'QA'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/QA.md): My quality assurance process and how I identified and fixed my risk areas with queries
+  4. [`'QA'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/QA.md): my quality assurance process and how I identified and fixed my risk areas with queries
 
 ## Workflow 🔄️
 
