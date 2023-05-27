@@ -8,7 +8,7 @@ The goal for the project is to analyze and transform the E-commerce dataset whil
 This project is organized into data, images, and src folders:
 
  - [`'data'`](https://github.com/Jaghs/SQL-project/tree/main/data): folder contains E-commerce dataset
- - [`'images'`](https://github.com/Jaghs/demand-prediction-project/tree/main/images](https://github.com/Jaghs/SQL-project/tree/main/images): folder contains Entity Relationship Diagram (ERD)
+ - [`'images'`](https://github.com/Jaghs/SQL-project/tree/main/images): folder contains Entity Relationship Diagram (ERD)
 - [`'workbooks'`](https://github.com/Jaghs/SQL-project/tree/main/workbooks): folder contains 4 workbooks where my SQL queries are:
 
   1. [`'cleaning_data'`](https://github.com/Jaghs/SQL-project/blob/main/workbooks/cleaning_data.md): Queries used to clean the data
