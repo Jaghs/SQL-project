@@ -15,7 +15,7 @@ ORDER BY "transactionRevenue"
 
 Answer:
 
-![revenue](./images/revenue.png)
+![revenue](../images/revenue.png)
 
 - We can see the United States has the highest transaction revenue and Sunnyvale being one of those cities
 
