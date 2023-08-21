@@ -11,7 +11,7 @@
 
 ***(Numbers above correspond to numbers below)***
 
-## Queries: Below, provide the SQL queries you used to clean your data.
+## Queries: 
 
 2. 
  ```SQL
